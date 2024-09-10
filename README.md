@@ -24,6 +24,6 @@ sekundu(systemC takodje uvodi pojam vremena u C++) i dobili da nas sistem za 1 s
 
 *Zadnji korak ovog dela je pisanje izlazne dokumentacije u nekom alatu za pisanje teksta.
 
--Drugi deo projekta: "Hardverski dizajn 2Dkonvoluera i pakovanje njega u IP uz koriscenje AXI-LITE interfejsa"
+-Drugi deo projekta: "Hardverski dizajn 2Dkonvoluera koji obavlja konvoluciju sa protocnom obradom iz 4 faze i pakovanje njega u IP uz koriscenje AXI-LITE interfejsa"
 
 *
